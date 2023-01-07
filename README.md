@@ -5,3 +5,8 @@ Additive Analyzer/Synthesizer
 * Additive Synthesizer
 * Analyzer
 * Cross-Synthesizer
+
+# Platform
+* Intel
+* Raspberry-Pi
+* Banana-Pi
