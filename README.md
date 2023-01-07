@@ -10,3 +10,6 @@ Additive Analyzer/Synthesizer
 * Intel
 * Raspberry-Pi
 * Banana-Pi
+
+# GPU
+* Replace FFTW with cuFFT
