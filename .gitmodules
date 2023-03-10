@@ -34,3 +34,9 @@
 [submodule "diffsptk"]
 	path = diffsptk
 	url = https://github.com/sp-nitech/diffsptk
+[submodule "fast-additive-comparison"]
+	path = fast-additive-comparison
+	url = https://github.com/goldenrockefeller/fast-additive-comparison
+[submodule "CUDA-Additive-Synthesis"]
+	path = CUDA-Additive-Synthesis
+	url = https://github.com/davispolito/CUDA-Additive-Synthesis
