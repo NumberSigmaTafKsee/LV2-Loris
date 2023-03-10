@@ -1,2 +1,2 @@
 # LV2-Loris
-Additive Analyzer/Synthesizer
+Vocoder/Analyzer Additive Synthesizer CrossSynthesizer
