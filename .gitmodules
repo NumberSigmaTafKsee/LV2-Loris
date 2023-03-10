@@ -1,0 +1,36 @@
+[submodule "transformant"]
+	path = transformant
+	url = https://github.com/igorski/transformant
+[submodule "Formant-Filter"]
+	path = Formant-Filter
+	url = https://github.com/Selim-Sheta/Formant-Filter
+[submodule "audiomod"]
+	path = audiomod
+	url = https://github.com/tangkk/audiomod
+[submodule "SMR"]
+	path = SMR
+	url = https://github.com/4ms/SMR
+[submodule "Manta"]
+	path = Manta
+	url = https://github.com/Mrugalla/Manta
+[submodule "rezonateur"]
+	path = rezonateur
+	url = https://github.com/jpcima/rezonateur
+[submodule "ModalResonators"]
+	path = ModalResonators
+	url = https://github.com/jazamatronic/ModalResonators
+[submodule "World"]
+	path = World
+	url = https://github.com/mmorise/World
+[submodule "world-class"]
+	path = world-class
+	url = https://github.com/yukara-ikemiya/world-class
+[submodule "SPTK"]
+	path = SPTK
+	url = https://github.com/sp-nitech/SPTK
+[submodule "pysptk"]
+	path = pysptk
+	url = https://github.com/r9y9/pysptk
+[submodule "diffsptk"]
+	path = diffsptk
+	url = https://github.com/sp-nitech/diffsptk
