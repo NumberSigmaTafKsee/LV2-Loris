@@ -16,3 +16,10 @@ Additive Analyzer/Synthesizer
 # It can be used as a morphing speech synthesizer
 * You can use the analyzer
 * You can synthesize it with World
+
+# I combine it with the formant resontor theory
+* When combined with Real Sound Synthesis you have a complete vocoder speech decoder
+* Now, you need resonant bandpass filter - no problem
+* You can use World with it
+* You can use SPTK to get all kinds of speech dsp algorithms like the filters 
+* Now with the formant filters and the lpc you can make it synthesize the speech or morph it to sound like darth vader
