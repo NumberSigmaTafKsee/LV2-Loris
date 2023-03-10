@@ -10,3 +10,5 @@ Additive Analyzer/Synthesizer
 * synthesizer
 * cross-synthesizer
 
+# It is used in MIDGET
+* Real-Time Voice Cloning for the Modern Industrial Design
