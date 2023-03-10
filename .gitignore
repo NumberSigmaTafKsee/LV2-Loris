@@ -1,0 +1,13 @@
+bin
+bin/*
+lib
+lib/*
+*.a
+*.o
+*.so
+*.lib
+*.dll
+Data
+Data/*
+Matrix
+Matrix/*
