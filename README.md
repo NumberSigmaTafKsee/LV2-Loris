@@ -1,15 +1,12 @@
-# std-loris
+# LV2-Loris
 Additive Analyzer/Synthesizer
 
-# Loris
-* Additive Synthesizer
-* Analyzer
-* Cross-Synthesizer
+# It is sort of like a vocoder
+* It also has an addiive synthesizer
+* The synthesizer can morph sounds
 
-# Platform
-* Intel
-* Raspberry-Pi
-* Banana-Pi
+# So it is useful
+* analyzer
+* synthesizer
+* cross-synthesizer
 
-# GPU
-* Replace FFTW with cuFFT
